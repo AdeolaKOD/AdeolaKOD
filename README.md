@@ -12,7 +12,7 @@
 ## Libraries & Tools
 | MediaPipe | OpenCV | NumPy | Matplotlib |
 |----|-----|-----|-----|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/MediaPipe_logo.svg" title="MediaPipe" alt="MediaPipe" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV"  alt="OpenCV" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> | 
+| <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mediapipe/default.svg" title="MediaPipe" alt="MediaPipe" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV"  alt="OpenCV" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> | 
 
 ## Operating Systems
 | Windows | Ubuntu | 
